@@ -14,3 +14,8 @@ and building my skills one step at a time.
 
 This is my learning journal it will grow as I grow
 This is the beginning
+### PROJECTS
+### Coffee Shop Sales Analysis
+A sales performance analysis project exploring sales trends and key business metrics for a coffee shop built using POWER BI.
+***What's inluded:**
+POWER BI dashboard, Raw sales data, Summary presentation and dashboard screenshoot
